@@ -3,3 +3,6 @@ Learning new functions
 
 Test 1 :
 This is the first edit
+
+
+Let's add some details to a new branch 
